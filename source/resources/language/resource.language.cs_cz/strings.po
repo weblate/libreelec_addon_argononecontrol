@@ -61,7 +61,7 @@ msgstr "Ventilátor zapnut vždy"
 #. label-switch: enable/disable fan control global
 msgctxt "#32104"
 msgid "Fan disabled"
-msgstr ""
+msgstr "Ventilátor vypnut"
 
 #. label-switch: fan control without register support
 msgctxt "#32105"
