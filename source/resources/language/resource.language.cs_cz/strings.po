@@ -56,7 +56,7 @@ msgstr "Otáčky ventilátoru (v %)"
 #. label-switch: force fan speed to 100 percent
 msgctxt "#32103"
 msgid "Fan always on"
-msgstr ""
+msgstr "Ventilátor zapnut vždy"
 
 #. label-switch: enable/disable fan control global
 msgctxt "#32104"
